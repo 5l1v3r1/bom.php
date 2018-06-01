@@ -1,0 +1,2 @@
+# bom.php
+Warning
